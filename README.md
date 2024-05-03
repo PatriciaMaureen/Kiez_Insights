@@ -10,6 +10,9 @@ My goal was to gain some insights into the public data. Therefore I combined it 
 3. Is there a correlation between the socio-econimc status of a district and the behavior of watering?
 4. Do the poeple water more on hot days?
 
+# Visualization 
+https://public.tableau.com/app/profile/patricia.sewing/viz/Kiez_Insights/KiezInsights?publish=yes
+
 # Outlook
 I could already gain some interesting insights but I think there is even more you can learn about people's habits when you add more detailed user data. 
 For example how do the people behave when there are special occasions happening in the city or when there are school vacations for the people that do have family.
