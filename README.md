@@ -15,9 +15,9 @@ I could already gain some interesting insights but I think there is even more yo
 For example how do the people behave when there are special occasions happening in the city or when there are school vacations for the people that do have family.
 
 # Data
-"Gieß den Kiez" data: 
+1. "Gieß den Kiez" data: 
 https://daten.berlin.de/datensaetze/gie%C3%9F-den-kiez-nutzungsdaten
-Weather data: 
+2. Weather data: 
 https://open-meteo.com/en/docs/historical-weather-api#start_date=2022-01-01&end_date=2022-12-31&hourly=&daily=temperature_2m_max,temperature_2m_min,temperature_2m_mean,sunrise,sunset,daylight_duration,sunshine_duration,rain_sum,snowfall_sum,wind_speed_10m_max,wind_gusts_10m_max,wind_direction_10m_dominant&timezone=Europe%2FBerlin
-Socio-econimc data: 
+3. Socio-econimc data: 
 https://www.berlin.de/ba-mitte/politik-und-verwaltung/service-und-organisationseinheiten/qualitaetsentwicklung-planung-und-koordination-des-oeffentlichen-gesundheitsdienstes/gesundheits-und-sozialberichterstattung/demografische-und-soziooekonomische-daten-1288995.php#headline_1_11
