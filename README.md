@@ -1,5 +1,7 @@
 # Kiez_Insights: Exploring Berlin's Community Data
 
+This is the Mid-Bootcamp Project I did for my Data Analytics Bootcamp.
+
 # Context
 Gieß den Kiez, a project by CityLAB Berlin, maps Berlin's 625.000+ street and park trees to protect them from drying out. The web app, www.giessdenkiez.de, allows users to explore, adopt, and water trees, aiding city watering services coordination and improvement.
 
